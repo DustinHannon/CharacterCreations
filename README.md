@@ -2,6 +2,8 @@
 
 The official website for **Character Creations** — a small, family-owned business specializing in handmade items and lovingly restored older pieces brought back to life.
 
+**Live Site**: [character-creations.vercel.app](https://character-creations.vercel.app/)
+
 ## About
 
 Character Creations is a family-run shop dedicated to craftsmanship. We design and create handmade items from scratch, and we breathe new life into older pieces through careful restoration. Every item carries its own story.
